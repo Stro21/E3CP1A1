@@ -8,3 +8,7 @@ and open the template in the editor.
     Author     : Eduardo
 */
 
+.fondo_verde{
+	background-color: green;
+	color: white;
+}
