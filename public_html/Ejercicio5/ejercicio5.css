@@ -12,5 +12,7 @@ and open the template in the editor.
 	background-color: #6FC041;
 	color: white;
 	text-align: center;
-
+	height: 200px;
+	padding-top: 45px;
+	padding-bottom: 45px;
 }
