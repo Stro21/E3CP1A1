@@ -8,6 +8,7 @@ and open the template in the editor.
     Author     : Eduardo
 */
 
+
 .fondo_verde{
 	background-color: #6FC041;
 	color: white;
@@ -15,4 +16,16 @@ and open the template in the editor.
 	height: 200px;
 	padding-top: 45px;
 	padding-bottom: 45px;
+}
+
+.centrado{
+	text-align: center;
+}
+
+.margen{
+	margin-top: 50px;
+}
+
+.img-responsive{
+	max-width: 100%;
 }
